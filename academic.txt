@@ -1,34 +1,35 @@
-+.ieee.org
-+.elsevier.com
-+.sciencedirect.com
-+.springer.com
-+.springernature.com
-+.nature.com
-+.wiley.com
-+.wiley.scienceconnect.io
-+.acs.org
-+.rsc.org
-+.iop.org
-+.iopscience.com
-+.aps.org
-+.spiedigitallibrary.org
-+.spie.org
-+.science.org
-+.sciencemag.org
-+.aaas.org
-+.mdpi.com
-+.cambridge.org
-+.cambridgecore.org
-+.aip.org
-+.scitation.org
-+.optica.org
-+.opg.optica.org
-+.arxiv.org
-+.doi.org
-+.crossref.org
-+.orcid.org
-+.webofscience.com
-+.clarivate.com
-+.scopus.com
-+.researchgate.net
-challenges.cloudflare.com
+payload:
+  - '+.ieee.org'
+  - '+.elsevier.com'
+  - '+.sciencedirect.com'
+  - '+.springer.com'
+  - '+.springernature.com'
+  - '+.nature.com'
+  - '+.wiley.com'
+  - '+.wiley.scienceconnect.io'
+  - '+.acs.org'
+  - '+.rsc.org'
+  - '+.iop.org'
+  - '+.iopscience.com'
+  - '+.aps.org'
+  - '+.spiedigitallibrary.org'
+  - '+.spie.org'
+  - '+.science.org'
+  - '+.sciencemag.org'
+  - '+.aaas.org'
+  - '+.mdpi.com'
+  - '+.cambridge.org'
+  - '+.cambridgecore.org'
+  - '+.aip.org'
+  - '+.scitation.org'
+  - '+.optica.org'
+  - '+.opg.optica.org'
+  - '+.arxiv.org'
+  - '+.doi.org'
+  - '+.crossref.org'
+  - '+.orcid.org'
+  - '+.webofscience.com'
+  - '+.clarivate.com'
+  - '+.scopus.com'
+  - '+.researchgate.net'
+  - 'challenges.cloudflare.com'
