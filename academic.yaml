@@ -1,0 +1,68 @@
+payload:
+  # IEEE
+  - '+.ieee.org'
+
+  # Elsevier / ScienceDirect
+  - '+.elsevier.com'
+  - '+.sciencedirect.com'
+
+  # Springer / Nature
+  - '+.springer.com'
+  - '+.springernature.com'
+  - '+.nature.com'
+
+  # Wiley
+  - '+.wiley.com'
+  - '+.wiley.scienceconnect.io'
+
+  # ACS
+  - '+.acs.org'
+
+  # RSC
+  - '+.rsc.org'
+
+  # IOP
+  - '+.iop.org'
+  - '+.iopscience.com'
+
+  # APS
+  - '+.aps.org'
+
+  # SPIE
+  - '+.spiedigitallibrary.org'
+  - '+.spie.org'
+
+  # Science / AAAS
+  - '+.science.org'
+  - '+.sciencemag.org'
+  - '+.aaas.org'
+
+  # MDPI
+  - '+.mdpi.com'
+
+  # Cambridge
+  - '+.cambridge.org'
+  - '+.cambridgecore.org'
+
+  # AIP / Scitation
+  - '+.aip.org'
+  - '+.scitation.org'
+
+  # Optica / OSA
+  - '+.optica.org'
+  - '+.opg.optica.org'
+
+  # 学术基础设施
+  - '+.arxiv.org'
+  - '+.doi.org'
+  - '+.crossref.org'
+  - '+.orcid.org'
+  - '+.webofscience.com'
+  - '+.clarivate.com'
+  - '+.scopus.com'
+
+  # ResearchGate
+  - '+.researchgate.net'
+
+  # Cloudflare challenge，仅精确加入，不建议全局 +.cloudflare.com
+  - 'challenges.cloudflare.com'
