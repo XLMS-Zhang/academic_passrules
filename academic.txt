@@ -64,5 +64,5 @@ payload:
   # ResearchGate
   - '+.researchgate.net'
 
-  # Cloudflare challenge，仅精确加入，不建议全局 +.cloudflare.com
+  # Cloudflare challenge
   - 'challenges.cloudflare.com'
