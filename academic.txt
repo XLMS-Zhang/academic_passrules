@@ -33,4 +33,5 @@ payload:
   - '+.clarivate.com'
   - '+.scopus.com'
   - '+.researchgate.net'
+  - '+.biorxiv.org'
   - 'challenges.cloudflare.com'
