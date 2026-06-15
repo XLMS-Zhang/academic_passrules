@@ -4,6 +4,7 @@ payload:
   - '+.sciencedirect.com'
   - '+.springer.com'
   - '+.springernature.com'
+  - '+.nature.com'
   - '+.wiley.com'
   - '+.wiley.scienceconnect.io'
   - '+.onlinelibrary.wiley.com'
